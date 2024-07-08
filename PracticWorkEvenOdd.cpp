@@ -8,7 +8,7 @@
    
 	int main()
 {
-		FindOddNumbers(Limit:20, isOdd: true);
+		FindOddNumbers(20,true);
 		
 }
 
